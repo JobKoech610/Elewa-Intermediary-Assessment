@@ -4,6 +4,7 @@ import About from "./Pages/About";
 import Invest from "./Pages/Invest";
 import Header from './Views/Header';
 
+//installed react router for navlink navigation
 // Defining routes and their components and rendering 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <div className="App">
       <Header />
         <Routes>
-          <Route path="/" element={<SocialImpact />} />  
+        <Route path="/social-impact" element={<SocialImpact />} />
           <Route path="/about" element={<About />} />
           <Route path="/invest" element={<Invest />} />
         </Routes>
