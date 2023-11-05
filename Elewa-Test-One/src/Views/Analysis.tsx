@@ -1,6 +1,8 @@
 import { useAnalysisData } from '../ViewModels/useAnalysisData';
 import "../Styles/Analysis.css"
 
+
+// Component with Analysis data
 const Analysis: React.FC = () => {
   const analysisData = useAnalysisData();
   console.log(analysisData);
