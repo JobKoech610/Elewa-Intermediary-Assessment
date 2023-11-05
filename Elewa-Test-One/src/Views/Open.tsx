@@ -2,6 +2,7 @@
 import { useOpenData } from '../ViewModels/useOpenData';
 import "../Styles/Open.css"
 
+//Open component
 const Open: React.FC = () => {
   const OpenData = useOpenData();
   console.log(OpenData);
