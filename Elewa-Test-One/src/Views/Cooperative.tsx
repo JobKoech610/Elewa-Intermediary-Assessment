@@ -2,6 +2,7 @@
 import { useCooperativeData } from '../ViewModels/useCooperativeData';
 import "../Styles/Cooperative.css"
 
+// Component with Cooperative data
 const Cooperative: React.FC = () => {
   const CooperativeData = useCooperativeData();
   console.log(CooperativeData);
