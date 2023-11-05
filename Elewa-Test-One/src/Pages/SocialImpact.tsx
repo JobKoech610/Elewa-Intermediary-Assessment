@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
+import Landing from "../Views/Landing";
 
-function SocialImpact() {
-  return (
-    <div>SocialInvest</div>
-  )
+
+// This component is used to display the Social Invest page.
+function SocialInvest() {
+    return (
+        <div className="homepage">
+            <Landing />
+            
+        </div>
+    )
 }
 
-export default SocialImpact
+export default SocialInvest
