@@ -8,7 +8,7 @@ const Social: React.FC = () => {
   return (
     <div>
       {socialData ? (
-        <>
+        <div className='social-content'>
           <div className='image-text'>
                 <div className='content-image-text'>
                     <div className="card-image">
@@ -21,7 +21,7 @@ const Social: React.FC = () => {
                     
                 </div>
           </div>
-        </>
+        </div>
       ) : (
         <p>Loading...</p>
       )}
