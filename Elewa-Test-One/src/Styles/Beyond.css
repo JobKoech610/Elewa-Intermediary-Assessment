@@ -1,0 +1,49 @@
+.beyond-content{
+  background-color: black;
+}
+
+.beyond-image-text {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding-bottom: 100px;
+    padding-top: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+   
+  }
+  
+  .beyond-content-image-text {
+    display: flex;
+    gap: 10%;
+    width: 80%;
+    max-height: 80vh;
+    
+    align-items: center;
+  }
+  
+  .beyond-card-image {
+    flex: 0 0 auto; /* Prevent the image from growing/shrinking */
+    max-width: 100%; /* Make sure the image doesn't exceed its container */
+    margin-right: 20px; /* Adjust the spacing between the image and text as needed */
+    
+}
+  .beyond-card-image>img{
+    width: 413px;
+    height: 500px;
+    border-radius: 2rem;
+    
+  }
+  .beyond-social-text {
+    width: 50%;
+    
+}
+
+h1{
+    font-size: 3rem;
+}
+p{
+    font-size: 1.5rem;
+}
+  
