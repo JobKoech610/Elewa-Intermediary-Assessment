@@ -5,6 +5,8 @@ import Social from "../Views/Social";
 import Cooperative from "../Views/Cooperative";
 import Beyond  from "../Views/Beyond";
 import Open from "../Views/Open";
+import Project from "../Views/Project";
+import Footer from "../Views/Footer";
 
 
 // This component is used to display the Social Invest page.
@@ -17,6 +19,8 @@ function SocialInvest() {
             <Cooperative />
             <Beyond />
             <Open />
+            <Project />
+            <Footer />
         </div>
     )
 }
