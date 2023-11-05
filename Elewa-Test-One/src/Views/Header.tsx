@@ -2,6 +2,7 @@ import { useHeaderData } from '../ViewModels/useHeaderData';
 import { Link } from "react-router-dom";
 import '../Styles/Header.css';
 
+//Header component
 const Header: React.FC = () => {
   const headerData = useHeaderData();
   console.log(headerData);
