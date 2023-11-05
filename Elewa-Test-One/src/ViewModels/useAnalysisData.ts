@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Analysis } from '../Models/Analysis';
 
+// function to get data 
 export const useAnalysisData = () => {
 
     const [AnalysisData, setAnalysisData] = useState<Analysis | null>(null);
