@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { useProjectData } from '../ViewModels/useProjectData';
 import "../Styles/Project.css";
 
+
+// project component
 const Project: React.FC = () => {
   const projectData = useProjectData();
   const [currentLogoIndex, setCurrentLogoIndex] = useState(0);
@@ -13,7 +15,7 @@ const Project: React.FC = () => {
           prevIndex === projectData.projectLogos.length - 1 ? 0 : prevIndex + 1
         );
       }
-    }, 1000); // 1000ms = 1 second
+    }, 1000); // 1 second
 
     return () => clearInterval(interval);
   }, [projectData]);
