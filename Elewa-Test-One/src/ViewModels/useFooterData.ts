@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Footer } from '../Models/Footer';
-
+// function to get data 
 export const useFooterData = () => {
 
     const [footerData, setFooterData] = useState<Footer | null>(null);
