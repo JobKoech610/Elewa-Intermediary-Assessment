@@ -1,0 +1,24 @@
+.border{
+    display: flex;
+    justify-content: space-around;
+}
+
+.light-border{
+    border-bottom: 1px solid black;
+    margin: 0 5rem 0 5rem;
+}
+
+.navmenu{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-item{
+    list-style-type: none;
+   
+}
+
+.nav-item *{
+    text-decoration: none;
+}
+
