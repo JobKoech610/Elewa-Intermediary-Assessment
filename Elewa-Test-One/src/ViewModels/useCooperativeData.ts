@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Cooperative } from '../Models/Cooperative';
 
+// function to get data 
 export const useCooperativeData = () => {
 
     const [CooperativeData, setCooperativeData] = useState<Cooperative | null>(null);
