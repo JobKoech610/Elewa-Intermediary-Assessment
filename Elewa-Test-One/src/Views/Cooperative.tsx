@@ -10,7 +10,18 @@ const Cooperative: React.FC = () => {
     <div>
       {CooperativeData ? (
         <>
-          
+          <div className='coop-image-text'>
+                <div className='coop-content-image-text'>
+                    <div className="coop-card-image">
+                        <img src={CooperativeData.coopImageCard} alt="socialImageCard" />
+                    </div>
+                    <div className='coop-social-text'>
+                        <h1>{CooperativeData.coopHead}</h1>
+                        <p>{CooperativeData.coopText}</p>
+                    </div>
+                    
+                </div>
+          </div>
           
         </>
       ) : (
