@@ -1,9 +1,9 @@
-
+/* styling the social component */
 .social-content{
   background-color: rgb(236, 236, 236);
 }
 
-.image-text {
+.text {
     display: flex;
     justify-content: center;
     background-color: black;
@@ -13,7 +13,7 @@
     border-bottom-right-radius: 30px;
   }
   
-  .content-image-text {
+  .cont-image-text {
     display: flex;
     gap: 10%;
     width: 80%;
