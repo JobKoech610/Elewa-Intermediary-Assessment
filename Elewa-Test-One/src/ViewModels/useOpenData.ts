@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Open } from '../Models/Open';
 
+// function to get data 
 export const useOpenData = () => {
 
     const [OpenData, setOpenData] = useState<Open | null>(null);
