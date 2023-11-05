@@ -6,7 +6,7 @@ const Analysis: React.FC = () => {
   console.log(analysisData);
 
   return (
-    <header>
+    <div>
       {analysisData ? (
         <>
           <div className='analysis'>
@@ -32,7 +32,7 @@ const Analysis: React.FC = () => {
       ) : (
         <p>Loading...</p>
       )}
-    </header>
+    </div>
   );
 };
 
