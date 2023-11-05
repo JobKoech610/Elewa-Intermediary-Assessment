@@ -6,7 +6,7 @@ const Landing: React.FC = () => {
   console.log(landingData);
 
   return (
-    <header>
+    <div>
       {landingData ? (
         <>
           <div  className='hero' style={{
@@ -24,7 +24,7 @@ const Landing: React.FC = () => {
       ) : (
         <p>Loading...</p>
       )}
-    </header>
+    </div>
   );
 };
 
