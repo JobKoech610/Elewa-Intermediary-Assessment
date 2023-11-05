@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Header } from '../Models/Header';
-
+// function to get data 
 export const useHeaderData = () => {
 
     const [HeaderData, setHeaderData] = useState<Header | null>(null);
