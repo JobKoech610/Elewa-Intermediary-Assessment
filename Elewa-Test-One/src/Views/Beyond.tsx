@@ -2,6 +2,7 @@
 import { useBeyondData } from '../ViewModels/useBeyondData';
 import "../Styles/Beyond.css"
 
+// Component with Beyond data
 const Beyond: React.FC = () => {
   const BeyondData = useBeyondData();
   console.log(BeyondData);
