@@ -1,0 +1,49 @@
+.project-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  align-items: center;
+}
+
+.projects{
+  display: flex;
+  flex-direction: column;
+  gap: 15rem;
+  align-items: center;
+
+}
+
+.projects>p{
+  font-size: 3.3rem;
+}
+
+span{
+  font-size: 3.3rem;
+  
+}
+
+.logo-carousel {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.logo-image {
+  width: 80px;
+  height: 80px;
+  
+  
+  padding-left: 3rem;
+ 
+  animation: moveLeft 10s infinite linear;
+}
+
+@keyframes moveLeft {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
