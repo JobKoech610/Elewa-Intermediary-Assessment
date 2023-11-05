@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react';
 import { Project } from '../Models/Project';
 
+// function to get data 
 export const useProjectData = () => {
 
     const [ProjectData, setProjectData] = useState<Project | null>(null);
