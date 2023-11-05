@@ -2,6 +2,7 @@
 import { useFooterData } from '../ViewModels/useFooterData';
 import "../Styles/Footer.css"
 
+//Footer component
 const Footer: React.FC = () => {
   const footerData = useFooterData();
   console.log(footerData);
