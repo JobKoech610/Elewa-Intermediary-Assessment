@@ -1,6 +1,7 @@
 import { useHeaderData } from '../ViewModels/useHeaderData';
 import { Link } from "react-router-dom";
-import '../Styles/Header.css'
+import '../Styles/Header.css';
+
 const Header: React.FC = () => {
   const headerData = useHeaderData();
   console.log(headerData);
@@ -15,7 +16,7 @@ const Header: React.FC = () => {
   }
   
   return (
-    <header>
+    <header className='header-container'>
       {headerData ? (
         <>
           <nav className='navbars'>
