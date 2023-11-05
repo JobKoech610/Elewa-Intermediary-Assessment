@@ -1,0 +1,23 @@
+.analysis *{
+    margin: 0;
+    padding: 0;
+}
+
+.analysis{
+    width: 100%;
+    padding: 100px 0 0;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.analysis>div{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    text-align: center;
+}
