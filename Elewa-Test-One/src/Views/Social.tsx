@@ -1,6 +1,8 @@
 import { useSocialData } from '../ViewModels/useSocialData';
 import "../Styles/Social.css"
 
+
+// Social component
 const Social: React.FC = () => {
   const socialData = useSocialData();
   console.log(socialData);
@@ -9,8 +11,8 @@ const Social: React.FC = () => {
     <div>
       {socialData ? (
         <div className='social-content'>
-          <div className='image-text'>
-                <div className='content-image-text'>
+          <div className='text'>
+                <div className='cont-image-text'>
                     <div className="card-image">
                         <img src={socialData.socialImageCard} alt="socialImageCard" />
                     </div>
