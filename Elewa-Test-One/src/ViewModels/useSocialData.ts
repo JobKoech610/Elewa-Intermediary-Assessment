@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Social } from '../Models/Social';
 
+// function to get data 
 export const useSocialData = () => {
 
     const [SocialData, setSocialData] = useState<Social | null>(null);
