@@ -105,16 +105,20 @@
   },
   "footer":{
     "Headquarters": {
+      "headquarters":"Headquarters",
       "address": "The Promenade, 19 General Mathenge Rd, Nairobi, Kenya"
     },
     "Contact": {
+      "contact":"Contact",
       "phone": "+254 78 92 27 755",
       "email": "info@elewa.ke"
     },
-    "Navigation": ["About us", "Social impact", "Invest", "News", "Contact"],
-    "Brands": ["Elewa", "Italanta", "Venture labs"],
-    "Privacy": ["Terms and conditions", "Cookie preferences"],
+    "Navigation": ["Navigation","About us", "Social impact", "Invest", "News", "Contact"],
+    "Brands": ["Brands","Elewa", "Italanta", "Venture labs"],
+    "Privacy": ["Privacy","Terms and conditions", "Cookie preferences"],
+    "logo": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg",
     "SocialMediaLogos": {
+      
       "facebook": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/facebook_lhhwk2.svg",
       "instagram": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690295/elewa-group-website/Icons/SVG/_Social/instagram_x8ujcq.svg",
       "linkedin": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/linkedin_x8smhm.svg"
