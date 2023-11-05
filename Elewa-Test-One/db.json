@@ -1,0 +1,123 @@
+{
+  "person": {
+    "name": "Jane Doe",
+    "age": 25,
+    "email": "jane.doe@example.com"
+  },
+  "header":{
+    "logo": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg",
+    "links": [
+      {
+        "id": 1,
+        "text": "Home",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "text": "About",
+        "url": "/about"
+      },
+      {
+        "id": 3,
+        "text": "Social-impact",
+        "url": "/social-impact"
+      },
+      {
+        "id": 4,
+        "text": "Invest",
+        "url": "/invest"
+      },
+      {
+        "id": 5,
+        "text": "Venture Labs",
+        "url": "/venture-labs"
+      },
+      {
+        "id": 6,
+        "text": "Brands",
+        "url": "/brands"
+      },
+      {
+        "id": 7,
+        "text": "Careers",
+        "url": "/careers"
+      },
+      {
+        "id": 8,
+        "text": "Contact",
+        "url": "/contact"
+      }
+  ]
+
+  },
+  "landing": {
+    "scaling": "Scaling impact. Beyond the norm",
+    "title": "Human and Environmental Impact through Social Enterprise",
+    "landingImage":"https://res.cloudinary.com/dyl3rncv3/image/upload/…oup-website/hero-Images/pexels-bg-edit_bb4znx.jpg"
+  },
+  "analysis":{
+    "peopleTrained": "733+ ",
+    "careersLaunched": "733k ",
+    "projectsFinished": "200+",
+    "investors": "56",
+    "peopleTrainedText": "People trained",
+    "careersLaunchedText": "Careers launched",
+    "projectsFinishedText": "Projects finished",
+    "investorsText": "Investors"
+  },
+  "social":{
+    "socialImageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/v1681306013/lady-impact_rnc9jy.jpg",
+    "socialHeading":"(Social) business for the win",
+    "socialText":"With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself."
+  },
+  "cooperative":{
+    "coopImageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/v1681308135/buffelo_i60xeu.jpg",
+    "coopHead":"A cooperative mindset",
+    "coopText":"Elewa has one shared objective; To unlock the true potential of individuals, teams, and the community. We believe strongly in the power of sharing ideas and continuously strive to grow each other and ourselves. Internally, but also within the larger communities in which we are active."
+  },
+  "beyond":{
+    "beyondImageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/…01/elewa-group-website/Images/IMG_0764_twyo3k.png",
+    "beyondHead":"Beyond business",
+    "beyondText":"We channel a good amount of our resources into giving back. Through projects such as our coding school in Kakuma refugee camp, training teachers in pastoral Samburu and our open-source coding initiatives providing entry-level opportunities to hundreds of junior engineers These projects don't necessarily have an immediate financial return, but their impact can be tangibly measured in the long-term."
+  },
+  "open":{
+    "openImageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/…2/elewa-group-website/Images/unnamed_1_m3dvll.png",
+    "openHead":"Open knowledge",
+    "openText":"What we learn, we share. Through community events, open knowledge repositories, regular teaching moments (everyone a teacher) and academic partnerships. We build for today, with a lens on tomorrow."
+  },
+  "projects":{
+    "projectsHead":"Some of our impact projects",
+    "projectsText": "Become part of our mission and join elewa.",
+  "projectLogos": [
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380443/elewa-group-website/client-logos/ms-adc_y96dms.jpg",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380412/elewa-group-website/client-logos/Spotlights_7_pplnvm.jpg",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380406/elewa-group-website/client-logos/Kenya_Scouts_Association_kcoka5.svg",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380406/elewa-group-website/client-logos/wwf-4-logo-png-transparent_tbkfcq.png",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380406/elewa-group-website/client-logos/vvob-logo_qyvjbp.jpg",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380406/elewa-group-website/client-logos/farmbetter-logo_x2acda.png",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380405/elewa-group-website/client-logos/it_volk_black_logo_image_iowrws.png",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380405/elewa-group-website/client-logos/hoplit-logo_nsryy7.webp",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380405/elewa-group-website/client-logos/2017-GIZ-Logo_htdnpa.png",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380405/elewa-group-website/client-logos/Enabel-logo_afiel7.png",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380406/elewa-group-website/client-logos/syndicyourself_logfo_qiqrex.png",
+    "https://res.cloudinary.com/dyl3rncv3/image/upload/e_grayscale/v1681380405/elewa-group-website/client-logos/adc-logo_dgxpul.jpg"
+  ]
+  },
+  "footer":{
+    "Headquarters": {
+      "address": "The Promenade, 19 General Mathenge Rd, Nairobi, Kenya"
+    },
+    "Contact": {
+      "phone": "+254 78 92 27 755",
+      "email": "info@elewa.ke"
+    },
+    "Navigation": ["About us", "Social impact", "Invest", "News", "Contact"],
+    "Brands": ["Elewa", "Italanta", "Venture labs"],
+    "Privacy": ["Terms and conditions", "Cookie preferences"],
+    "SocialMediaLogos": {
+      "facebook": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/facebook_lhhwk2.svg",
+      "instagram": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690295/elewa-group-website/Icons/SVG/_Social/instagram_x8ujcq.svg",
+      "linkedin": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/linkedin_x8smhm.svg"
+    }
+  }
+}
