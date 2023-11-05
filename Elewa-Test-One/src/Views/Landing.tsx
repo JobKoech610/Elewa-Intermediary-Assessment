@@ -1,6 +1,7 @@
 import { useLandingData } from '../ViewModels/useLandingData';
 import "../Styles/Landing.css"
 
+//Landing component
 const Landing: React.FC = () => {
   const landingData = useLandingData();
   console.log(landingData);
