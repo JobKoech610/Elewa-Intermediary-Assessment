@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Landing } from '../Models/Landing';
 
+// function to get data 
 export const useLandingData = () => {
 
     const [LandingData, setLandingData] = useState<Landing | null>(null);
