@@ -20,6 +20,65 @@
 
 3. JSON: acts as the server side for the Application
 
+
+## File tree -structure
+
+├── App.tsx
+├── assets
+│   └── react.svg
+├── index.css
+├── main.tsx
+├── Models
+│   ├── Analysis.ts
+│   ├── Beyond.ts
+│   ├── Cooperative.ts
+│   ├── Footer.ts
+│   ├── HeaderInvest.ts
+│   ├── Header.ts
+│   ├── Landing.ts
+│   ├── Open.ts
+│   ├── Project.ts
+│   └── Social.ts
+├── Pages
+│   ├── About.tsx
+│   ├── Invest.tsx
+│   └── SocialImpact.tsx
+├── Styles
+│   ├── Analysis.css
+│   ├── Beyond.css
+│   ├── Cooperative.css
+│   ├── Footer.css
+│   ├── Header.css
+│   ├── Landing.css
+│   ├── Open.css
+│   ├── Project.css
+│   └── Social.css
+├── ViewModels
+│   ├── useAnalysisData.ts
+│   ├── useBeyondData.ts
+│   ├── useCooperativeData.ts
+│   ├── useFooterData.ts
+│   ├── useHeaderData.ts
+│   ├── useHeaderInvest.ts
+│   ├── useLandingData.ts
+│   ├── useOpenData.ts
+│   ├── useProjectData.ts
+│   └── useSocialData.ts
+├── Views
+│   ├── Analysis.tsx
+│   ├── Beyond.tsx
+│   ├── Cooperative.tsx
+│   ├── Footer.tsx
+│   ├── HeaderInvest.tsx
+│   ├── Header.tsx
+│   ├── Landing.tsx
+│   ├── Open.tsx
+│   ├── Project.tsx
+│   └── Social.tsx
+└── vite-env.d.ts
+
+6 directories, 47 files
+
 ## How to Set Up
 
 1. **Repository link**:
