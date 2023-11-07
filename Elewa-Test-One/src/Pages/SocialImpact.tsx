@@ -13,6 +13,7 @@ import Footer from "../Views/Footer";
 function SocialInvest() {
     return (
         <div className="homepage">
+            
             <Landing />
             <Analysis />
             <Social />
