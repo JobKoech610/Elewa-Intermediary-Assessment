@@ -1,8 +1,13 @@
-import React from 'react'
+
+import Header from '../Views/Header';
+import Footer from "../Views/Footer";
 
 function About() {
   return (
-    <div>About</div>
+    <div>
+      <Header/>
+      <Footer/>
+    </div>
   )
 }
 
