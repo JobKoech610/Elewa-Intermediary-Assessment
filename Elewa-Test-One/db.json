@@ -1,9 +1,5 @@
 {
-  "person": {
-    "name": "Jane Doe",
-    "age": 25,
-    "email": "jane.doe@example.com"
-  },
+
   "header":{
     "logo": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg",
     "links": [
@@ -123,5 +119,58 @@
       "instagram": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690295/elewa-group-website/Icons/SVG/_Social/instagram_x8ujcq.svg",
       "linkedin": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/linkedin_x8smhm.svg"
     }
-  }
+  },
+  "invest":{
+      "head":"Trade, not aid",
+      "title":"Southern innovations addressing global problems",
+      "backgroundImage":"https://res.cloudinary.com/dyl3rncv3/image/upload/v1679982347/elewa-group-website/hero-Images/dark-to-light_xrat5g.jpg",
+      "headTwo":"How we see it differently",
+      "text":"The global South is rapidly catching up with the 'developed' world. It's time for you to get to know the rapid development, innovation and drive going on in this part of the world (East-Africa, South Asia and beyond).",
+      "cardImage":"https://res.cloudinary.com/dyl3rncv3/image/upload/c_scale,w_1280/v1675690306/elewa-group-website/Images/Mask_Group_17_rjkgrq.png"
+    },
+
+   "Keyfigures":{
+      "KeyFigures":"Key figures",
+      "cardOneNum":"1.3M",
+      "cardOneText":"Approx. number of Kenyan talents reaching the age of 18 in 2022",
+      "cardTwoNum":"5M",
+      "cardTwoText":"number of East-Africans(EAC) reaching the age of 18 in 2022",
+      "cardThreeNum":"2022",
+      "cardThreeText":"Democratic Republic of Congo joins the East African Community",
+      "cardFourNum":"1.5M",
+      "cardFourText":"The number of unfilled IT vacancies in the US and EU markets",
+      "cardFiveNum":"10M",
+      "cardFiveText":"Number of technical vacancies by 2030",
+      "cardSixNum":"2050",
+      "cardSixText":"Africa holds the worlds largest workforce",
+      "cardSevenNum":"$4.6M",
+      "cardSevenText":"Startup funding raised by African startups in 2022",
+      "cardEightNum":"310%",
+      "cardEightText":"Increase in startup funding for companies with HQ in Kenya"
+   },
+   
+   "stakeholder":{
+    "title":"Elewa NV, a multi-stakeholder cooperation",
+    "textOne":"At the heart of Elewa lies the structure Elewa NV. Based in Brussels, Belgium, Elewa NV is a private holding company which controls the assets of all Elewa activities.",
+    "textTwo":"Elewa NV is owned and controlled by Elewa's founder, a small community of investors which share in the vision of Elewa and Elewa employees based throughout the activities of the group.",
+    "imageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690303/elewa-group-website/Images/IMG_6523_vabpyo.png"
+   },
+   "creative":{
+    "title":"The Elewa Creative Hub",
+    "textOne":"Coming soon; The Elewa Creative Hub Lies at the heart of our organization. A two-acre property at the center of Nairobi's creative district, the hub connects all Elewa's Activities under a single banner.",
+    "textTwo":"Through partnerships with creative community, the Elewa Hub will organize vibrant activites that bring talents from different fields (tech, business, art, fashion) together to nurture continuous innovation.",
+    "imageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/v1679983012/elewa-group-website/Images/creative-hub-image_dd6o8o.jpg"
+   },
+   "Investing":{
+    "title":"Investing in Elewa NV",
+    "textOne":"From time to time, we offer investment opportunities (private equity & debt) to out community of investors. Interested to take part when this opportunity arrives?",
+    "textTwo":"Join the waiting list",
+    "imageCard":"https://res.cloudinary.com/dyl3rncv3/image/upload/v1679983082/elewa-group-website/Images/invest-now_ftxg4z.jpg"
+   },
+   "Caption":{
+    "captionOne":"Become part of our mission.",
+    "captionTwo":"And start investing"
+   }
+  
+   
 }
